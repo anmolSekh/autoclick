@@ -1,7 +1,7 @@
 # autoclick
 Autoclicker python script with programmable intervals and number of clicks
 
-## libraries
+## Libraries
 You will need pyautogui to make the script work.
 You can run the following command.
 ```console
@@ -14,7 +14,7 @@ You can optionally set the timer with arg1 and number of clicks with arg2.
 ```console
 python autoclicker.py arg1 arg2
 ```
-## limitations
+## Limitations
 The timer intervals must be less than 10 seconds.
 The number of clicks must be less than 10.
 
